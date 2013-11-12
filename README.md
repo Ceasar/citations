@@ -1,2 +1,4 @@
-mla
-===
+citations
+=========
+
+Generate academic citations.
